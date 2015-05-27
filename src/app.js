@@ -9,7 +9,7 @@ var Vector2 = require('vector2');
 
 var main = new UI.Card({
   title: 'LocateMe',
-  icon: 'images/menu_icon.png',
+  icon: 'images/rsz_locateme.png',
   subtitle: 'Where am I?',
   body: 'v 1.0'
 });
