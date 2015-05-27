@@ -4,23 +4,23 @@
         "location"
     ],
     "companyName": "xenotix.in@gmail.com",
-    "longName": "StockApp",
+    "longName": "LocateMe",
     "projectType": "pebblejs",
     "resources": {
         "media": [
             {
-                "file": "images/menu_icon.png",
+                "file": "images/rsz_locateme.png",
                 "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "png"
             },
             {
-                "file": "images/logo_splash.png",
+                "file": "images/rsz_locateme.png",
                 "name": "IMAGE_LOGO_SPLASH",
                 "type": "png"
             },
             {
-                "file": "images/tile_splash.png",
+                "file": "images/rsz_locateme.png",
                 "name": "IMAGE_TILE_SPLASH",
                 "type": "png"
             },
@@ -37,7 +37,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "StockApp",
+    "shortName": "LocateMe",
     "uuid": "15f53c39-7174-4b8e-8968-98d7306920c2",
     "versionCode": 1,
     "versionLabel": "1.0",
